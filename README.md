@@ -1,14 +1,7 @@
-## Flutter-Wordle
-
-A wordle clone rewritten and redesigned in Flutter for educational purposes.
-Designed and created by me.
-
-Credit to the original creator of Wordle and the New York Times.
-
-# **Flutter Wordle** — Offline Wordle App
+# **Flutter Wordle** — Offline Wordle Clone App
 
 ## 📌 Overview
-- A modified **offline Wordle** for educational purposes.  
+- A modified **offline Wordle** clone for educational purposes.  
 - **Designed & developed** entirely by myself using **Flutter** and **Dart**.  
 - Supports **Android** and **iOS** *(iOS version not yet configured)*.
 
@@ -31,3 +24,5 @@ Credit to the original creator of Wordle and the New York Times.
 ---
 
 **👨‍💻 Developer & Designer** — *Htet Wai Hlyan Kyaw*
+
+Credit to the original creator of Wordle and the New York Times.
