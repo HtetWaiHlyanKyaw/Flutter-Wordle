@@ -16,10 +16,10 @@
 ---
 
 ## 🔗 Available Links
-- [🧩 Wordle Algorithm](https://github.com/HtetWaiHlyanKyaw/Expentrix/Wordle-Algorithm.pdf)
-- [✨ Project Highlight](https://github.com/HtetWaiHlyanKyaw/Expentrix/Wordle-Highlight.pdf)
-- [📱 Android App](https://github.com/HtetWaiHlyanKyaw/Expentrix/flutter-wordle.apk)
-- [🎥 Demonstration](https://github.com/HtetWaiHlyanKyaw/Expentrix/Wordle-Demonstration.pdf)
+- [🧩 Wordle Algorithm](https://github.com/HtetWaiHlyanKyaw/Expentrix/blob/main/Wordle%20Algorithm.pdf)
+- [✨ Project Highlight](https://github.com/HtetWaiHlyanKyaw/Expentrix/Wordle%20Highlight.pdf)
+- [📱 Android App](https://github.com/HtetWaiHlyanKyaw/Expentrix/flutter%20wordle.apk)
+- [🎥 Demonstration](https://github.com/HtetWaiHlyanKyaw/Expentrix/Wordle%20Demonstration.pdf)
 
 ---
 
