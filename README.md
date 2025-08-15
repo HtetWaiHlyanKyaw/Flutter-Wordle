@@ -18,7 +18,7 @@
 ## 🔗 Available Links
 - [🧩 Wordle Algorithm](https://github.com/HtetWaiHlyanKyaw/Flutter-Wordle/blob/main/Wordle%20Algorithm.pdf)
 - [✨ Project Highlight](https://github.com/HtetWaiHlyanKyaw/Flutter-Wordle/blob/main/Wordle%20Highlight.pdf)
-- [📱 Android App](https://github.com/HtetWaiHlyanKyaw/Flutter-Wordle/blob/main/flutter%20wordle.apk)
+- [📱 Android App](https://github.com/HtetWaiHlyanKyaw/Flutter-Wordle/blob/main/flutter-wordle.apk)
 - [🎥 Demonstration](https://github.com/HtetWaiHlyanKyaw/Flutter-Wordle/blob/main/Wordle%20Demonstration.pdf)
 
 ---
